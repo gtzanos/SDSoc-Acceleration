@@ -1,11 +1,11 @@
-#MiniKKR with StarPU 
+# MiniKKR with StarPU 
 
-##Build
+## Build
 
 The Makefile in source directory should be used in order to build the program. 
 The way of compiling the project is similar to the native application plus the use of StarPu libraries.
 
-##Results
+## Results
 
 The application has been tested in 2 different systems:
 
